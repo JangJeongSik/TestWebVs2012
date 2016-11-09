@@ -29,3 +29,8 @@ _ReSharper*/
 #Ignore files created by KDiff3
 *.orig
 TSPImageHostingProjects/TSP.ImageHosting.ClientInstaller/Assemblies/
+TestMvc4/bin/TestMvc4.dll
+TestMvc4/bin/TestMvc4.pdb
+TestMvc4/obj/Debug/TestMvc4.csproj.FileListAbsolute.txt
+TestMvc4/obj/Debug/TestMvc4.dll
+TestMvc4/obj/Debug/TestMvc4.pdb
