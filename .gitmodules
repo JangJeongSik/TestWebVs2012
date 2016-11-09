@@ -1,0 +1,4 @@
+[submodule "CommonVs2012"]
+	path = CommonVs2012
+	url = https://github.com/JangJeongSik/CommonVs2012.git
+	branch = master
