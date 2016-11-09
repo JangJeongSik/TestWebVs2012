@@ -5,3 +5,6 @@ Thumbs.db
 #obj or debug
 bin/
 obj/
+
+#suo 파일 등 제외해야할 파일
+*.suo
